@@ -1,3 +1,9 @@
+# Personal and local research
+RESEARCH_SCOPE.md
+application-alignment.md
+research/
+hc/
+
 # Secrets and local credentials
 .env
 .env.*
@@ -12,8 +18,8 @@ node_modules/
 dist/
 build/
 coverage/
+*.log
 
 # Local evidence that may contain identifiers or secrets
 .local/
 artifacts/private/
-*.log
